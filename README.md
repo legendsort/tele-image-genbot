@@ -14,4 +14,4 @@ You are now ready to use your Bot.
 
 Add your bot (via the Bot's username from step 1) as a contact in Telegram. Start messaging it to interact with it. 
 
-Visit [https://github.com/magicpaIm/tele-image-genbot](https://github.com/magicpaIm/tele-image-genbot) for the source.
+Visit [https://github.com/sortoite/tele-image-genbot](https://github.com/sortoite/tele-image-genbot) for the source.
